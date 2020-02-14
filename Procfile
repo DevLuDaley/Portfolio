@@ -1,2 +1,2 @@
-release: python djangoportfolio manage.py migrate
-web: gunicorn portfolio.wsgi --log-file -
+release: python projectdjangoportfolio manage.py migrate
+web: gunicorn djangoportfolio.wsgi --log-file -
