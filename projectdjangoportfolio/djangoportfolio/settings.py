@@ -26,7 +26,7 @@ SECRET_KEY = 'cffi*=idl72-e3i258i-je_)&jvt=skn^=%__u^q)ao3s_0muw'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['cryptic-bastion-58234.herokuapp.com']
 
 
 # Application definition
